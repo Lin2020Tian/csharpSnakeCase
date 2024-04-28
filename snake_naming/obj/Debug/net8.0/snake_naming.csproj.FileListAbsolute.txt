@@ -1,0 +1,14 @@
+C:\TianLin\csharp\snake_naming\bin\Debug\net8.0\snake_naming.exe
+C:\TianLin\csharp\snake_naming\bin\Debug\net8.0\snake_naming.deps.json
+C:\TianLin\csharp\snake_naming\bin\Debug\net8.0\snake_naming.runtimeconfig.json
+C:\TianLin\csharp\snake_naming\bin\Debug\net8.0\snake_naming.dll
+C:\TianLin\csharp\snake_naming\bin\Debug\net8.0\snake_naming.pdb
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.GeneratedMSBuildEditorConfig.editorconfig
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.AssemblyInfoInputs.cache
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.AssemblyInfo.cs
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.csproj.CoreCompileInputs.cache
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.dll
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\refint\snake_naming.dll
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.pdb
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\snake_naming.genruntimeconfig.cache
+C:\TianLin\csharp\snake_naming\obj\Debug\net8.0\ref\snake_naming.dll
