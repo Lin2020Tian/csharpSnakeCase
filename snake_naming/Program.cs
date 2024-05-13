@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+// see https://dotnetfiddle.net/ for online compiler and try out
 
 using System;
 using System.Text.RegularExpressions;
